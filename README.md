@@ -1,5 +1,8 @@
 # Vega Protocol public roadmap
 
+[![](https://img.shields.io/badge/Project-Vega-yellow?style=flat-square)](https://vega.xyz/)
+[![Discord](https://img.shields.io/discord/720571334798737489?color=yellow&label=discord&style=flat-square)](https://discord.gg/cYxGQ6Xv)
+
 View the [Vega Protocol public roadmap](https://github.com/orgs/vegaprotocol/projects/114/views/1)
 
 Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [Vega Protocol public feedback discussions](https://github.com/vegaprotocol/feedback/discussions). 
@@ -15,9 +18,6 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 - Once a feature is ready, the **ready** label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant software version changelog. Items that are ready will be deployed to testnet with the respective version. 
 
 - Once a feature is stable in testnet the software will be made available for the validators. The validators will have a governance vote to deploy the software; once deployed the **shipped** label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant software version release notes. 
-
-
-
 
 ## Feature Areas
 
