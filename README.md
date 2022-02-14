@@ -1,35 +1,34 @@
-# Vega Protocol public roadmap
+# Vega Protocol engineering roadmap
 
 [![](https://img.shields.io/badge/Project-Vega-yellow?style=flat-square)](https://vega.xyz/)
 [![Discord](https://img.shields.io/discord/720571334798737489?color=yellow&label=discord&style=flat-square)](https://discord.gg/cYxGQ6Xv)
 
-View the [Vega Protocol public roadmap](https://github.com/orgs/vegaprotocol/projects/114/views/1)
+View the [Vega Protocol engineering roadmap](https://github.com/orgs/vegaprotocol/projects/114/views/1)
 
-Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [Vega Protocol public feedback discussions](https://github.com/vegaprotocol/feedback/discussions). 
+The Vega engineering roadmap is where you can learn about what features are being worked on, what stage they're in, and when we expect then to be ready for validators to choose to deploy. Got any questions or comments about items on the roadmap? Share your feedback via [Vega Protocol feedback discussions](https://github.com/vegaprotocol/feedback/discussions). 
 
-The roadmap repository is for communicating the Vega Protocol roadmap. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through the [General feedback discussions](https://github.com/vegaprotocol/feedback/discussions/new?category=General-Feedback&title=[Vega%20roadmap]%20).
+The roadmap repository is for communicating the Vega Protocol engineering roadmap. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through the [General feedback discussions](https://github.com/vegaprotocol/feedback/discussions/new?category=General-Feedback&title=[Vega%20roadmap]%20).
 
 ## Guide to the roadmap
 
 Every item on the roadmap is an issue, with a label that indicates each of the following:
 
-- A **feedback area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
+- A **function area** that indicates the function of the Vega software to which the item belongs. For a list of current function areas, see below.
 
 - Once a feature is ready, the **ready** label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant software version changelog. Items that are ready will be deployed to testnet with the respective version. 
 
-- Once a feature is stable in testnet the software will be made available for the validators. The validators will have a governance vote to deploy the software; once deployed the **shipped** label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant software version release notes. 
+- Once a tagged release is stable in testnet the software will be made available to the validators. The validators will have a governance vote to deploy the software; once deployed the **shipped** label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant software version release notes. 
 
 ## Feature Areas
 
 The following is a list of our current Vega Protocol areas:
 
-- **data-node:** [🧮 API queries](https://github.com/vegaprotocol/data-node/releases) - [API query discussions](https://github.com/vegaprotocol/feedback/discussions/categories/api-queries)
-- **documentation:** [📜 Documentation Requests](https://docs.vega.xyz/) - [📜 Vega documentation discussions](https://github.com/vegaprotocol/feedback/discussions/categories/documentation-requests)
-- **core-protocol:** [💡 Protocol Software](https://github.com/vegaprotocol/vega/releases) - [Vega protocol software discussions](https://github.com/vegaprotocol/feedback/discussions/categories/protocol-software)
-- **token-dApp:** [💻 Token dApp (token.vega.xyz)](https://token.vega.xyz/) - [Token dApp discussions](https://github.com/vegaprotocol/feedback/discussions/categories/token-dapp-token-vega-xyz)
-- **trading-interface:** [📈 Trading Interface](https://console.fairground.wtf/trading) - [Trading Interface discussions](https://github.com/vegaprotocol/feedback/discussions/categories/trading-interface)
-- **vega-wallet:** ⌨️ Vega Wallet [CLI](https://github.com/vegaprotocol/vegawallet/releases) and [Desktop](https://github.com/vegaprotocol/vegawallet-desktop/releases) - [Vega Wallet discussions](https://github.com/vegaprotocol/feedback/discussions/categories/vega-wallet)
-- **other:** Other features
+- **data-node:** Join the discussion [🧮 API query](https://github.com/vegaprotocol/feedback/discussions/categories/api-queries)
+- **documentation:** Join the discussion [📖 Vega documentation](https://github.com/vegaprotocol/feedback/discussions/categories/documentation-requests)
+- **core-protocol:** Join the discussion [💡 Vega protocol software](https://github.com/vegaprotocol/feedback/discussions/categories/protocol-software)
+- **token-dApp:** Join the discussion [💻 Token dApp](https://github.com/vegaprotocol/feedback/discussions/categories/token-dapp-and-console)
+- **console:** Join the discussion [💻 Console](https://github.com/vegaprotocol/feedback/discussions/categories/token-dapp-and-console)
+- **vega-wallet:** ⌨️ Join the discussion for CLI, Desktop and Web [Vega Wallet](https://github.com/vegaprotocol/feedback/discussions/categories/vega-wallets)
 
 
 ## Disclaimer
