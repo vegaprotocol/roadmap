@@ -19,9 +19,9 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 - Once a tagged release is stable in testnet the software will be made available to the validators. The validators will have a governance vote to deploy the software; once deployed the `shipped` label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant software version release notes. 
 
-## Feature Areas
+## Function Areas
 
-The following is a list of our current Vega Protocol areas:
+The following is a list of our current Vega Protocol function areas:
 
 - `data-node` Join the discussion [🧮 API query](https://github.com/vegaprotocol/feedback/discussions/categories/api-queries)
 - `core-protocol` Join the discussion [💡 Vega protocol software](https://github.com/vegaprotocol/feedback/discussions/categories/protocol-software)
