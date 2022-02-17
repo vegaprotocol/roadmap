@@ -24,7 +24,6 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 The following is a list of our current Vega Protocol areas:
 
 - `data-node` Join the discussion [🧮 API query](https://github.com/vegaprotocol/feedback/discussions/categories/api-queries)
-- `documentation` Join the discussion [📖 Vega documentation](https://github.com/vegaprotocol/feedback/discussions/categories/documentation-requests)
 - `core-protocol` Join the discussion [💡 Vega protocol software](https://github.com/vegaprotocol/feedback/discussions/categories/protocol-software)
 - `token-dApp` Join the discussion [💻 Token dApp](https://github.com/vegaprotocol/feedback/discussions/categories/token-dapp-and-console)
 - `console` Join the discussion [💻 Console](https://github.com/vegaprotocol/feedback/discussions/categories/token-dapp-and-console)
