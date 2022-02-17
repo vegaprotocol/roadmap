@@ -28,6 +28,7 @@ The following is a list of our current Vega Protocol function areas:
 - `token-dApp` Join the discussion [💻 Token dApp](https://github.com/vegaprotocol/feedback/discussions/categories/token-dapp-and-console)
 - `console` Join the discussion [💻 Console](https://github.com/vegaprotocol/feedback/discussions/categories/token-dapp-and-console)
 - `vega-wallet` Join the discussion for CLI, Desktop and Web [⌨️ Vega Wallet](https://github.com/vegaprotocol/feedback/discussions/categories/vega-wallets)
+- `smart-contracts` Join the discussion for [📜 Smart Contracts](https://github.com/vegaprotocol/feedback/discussions/categories/smart-contracts)
 
 
 ## Disclaimer
