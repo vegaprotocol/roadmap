@@ -15,9 +15,9 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 - A **function area** that indicates the function of the Vega software to which the item belongs. For a list of current function areas, see below.
 
-- Once a feature is ready, the `ready` label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant software version changelog. Items that are ready will be deployed to testnet with the respective version. 
+- In most cases for changes that have a dependency on smart contracts or a protocol software release, when ready, these will be deployed to testnet ahead of the validators evaluating the software. For front end or wallet changes, these can be made available for mainnet and move directly to shipped.
 
-- Once a tagged release is stable in testnet the software will be made available to the validators. The validators will have a governance vote to deploy the software; once deployed the `shipped` label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant software version release notes. 
+- Once a tagged release is stable in testnet, the core software will be made available to the validators. The validators will have a governance vote to deploy the software; once deployed the `shipped` label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant software version release notes. 
 
 ## Function Areas
 
