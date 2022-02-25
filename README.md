@@ -1,7 +1,7 @@
 # Vega Protocol engineering roadmap
 
 [![](https://img.shields.io/badge/Project-Vega-yellow?style=flat-square)](https://vega.xyz/)
-[![Discord](https://img.shields.io/discord/720571334798737489?color=yellow&label=discord&style=flat-square)](https://discord.gg/cYxGQ6Xv)
+[![Discord](https://img.shields.io/discord/720571334798737489?color=yellow&label=discord&style=flat-square)](https://vega.xyz/discord)
 
 View the [Vega Protocol engineering roadmap](https://github.com/orgs/vegaprotocol/projects/114/views/4)
 
