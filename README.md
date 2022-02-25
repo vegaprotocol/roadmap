@@ -21,7 +21,7 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 ## Function Areas
 
-The following is a list of our current Vega Protocol function areas:
+The following is a list of the current Vega Protocol function areas:
 
 - `data-node` Join the discussion [🧮 API query](https://github.com/vegaprotocol/feedback/discussions/categories/api-queries)
 - `core-protocol` Join the discussion [💡 Vega protocol software](https://github.com/vegaprotocol/feedback/discussions/categories/protocol-software)
