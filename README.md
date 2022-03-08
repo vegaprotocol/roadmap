@@ -13,13 +13,13 @@ The roadmap repository is for communicating the Vega Protocol engineering roadma
 
 Every item on the roadmap is an issue, with a label that indicates each of the following:
 
-- A **function area** that indicates the function of the Vega software to which the item belongs. For a list of current function areas, see below.
+- A [**function area**](#function-areas) that indicates the function of the Vega software to which the item belongs. The tabs on the top of the roadmap provides a focused view by function area.
 
 - Once a feature is ready, the `ready` label will be applied to the roadmap issue. In most cases for changes that have a dependency on smart contracts or a protocol software release, when ready, these will be deployed to testnet ahead of the validators evaluating the software. For front end or wallet changes, these can be made available for mainnet and move directly to shipped.
 
-- Once a tagged release is stable in testnet, the core software will be made available to the validators. The validators will have a governance vote to deploy the software; once deployed the `shipped` label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant software version release notes. 
+- Once a tagged release is stable in testnet, the core software will be made available to the validators. The validators will have a governance vote to deploy the software; once deployed the `shipped` label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant software version release notes. Once the feature has been shipped, the feature issue will be given a milestone tag. This is in order to have a historical view of the data as the [roadmap columns](#roadmap-columns) will not persist forever.
 
-## Function Areas
+## Function areas
 
 The following is a list of the current Vega Protocol function areas:
 
@@ -30,9 +30,14 @@ The following is a list of the current Vega Protocol function areas:
 - `vega-wallet` Join the discussion for CLI, Desktop and Web [⌨️ Vega Wallet](https://github.com/vegaprotocol/feedback/discussions/categories/vega-wallets)
 - `smart-contracts` Join the discussion for [📜 Smart Contracts](https://github.com/vegaprotocol/feedback/discussions/categories/smart-contracts)
 
+> ℹ️ NOTE: The `data-node` and `core-protocol` function areas are shown togther in the roadmap tab view.
+
+## Roadmap columns
+
+As time goes by the roadmap columns could continue to grow and may cause the forward looking roadmap view to become less clear. To address this concern, when the roadmap item has been `shipped`, the roadmap item will be given a [milestone](https://github.com/vegaprotocol/roadmap/milestones) tag. This will preserve a historical view of the data that can be seen in the [table view](https://github.com/orgs/vegaprotocol/projects/114/views/1). Any features not shipped in a given timeframe may be subject to replanning for a future date as per the [disclaimer](#disclaimer).
 
 ## Disclaimer
 
-Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to the Vega project team as of the date they are made, and the Vega project team assumes no obligation to update any forward-looking statements. The forward-looking product roadmap does not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and is intended to outline the general development plans.
+Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to the Vega project team as of the date they are made, and the Vega project team assumes no obligation to update any forward-looking statements. The forward-looking engineering roadmap does not represent a commitment, guarantee, obligation or promise to deliver any feature or functionality, or to deliver any feature or functionality by any particular date, and is intended to outline the general development plans.
 
 
