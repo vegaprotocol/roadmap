@@ -5,7 +5,7 @@
 
 View the [Vega Protocol engineering roadmap](https://github.com/orgs/vegaprotocol/projects/114/views/4)
 
-The Vega engineering roadmap is where you can learn about what features are being worked on, what stage they're in, and when we expect then to be ready for validators to choose to deploy. Got any questions or comments about items on the roadmap? Share your feedback via [Vega Protocol feedback discussions](https://github.com/vegaprotocol/feedback/discussions). 
+The Vega engineering roadmap is where you can learn about what features are being worked on, what stage they're in, and when we expect them to be ready for validators to choose to deploy. Got any questions or comments about items on the roadmap? Share your feedback via [Vega Protocol feedback discussions](https://github.com/vegaprotocol/feedback/discussions). 
 
 The roadmap repository is for communicating the Vega Protocol engineering roadmap. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through the [General feedback discussions](https://github.com/vegaprotocol/feedback/discussions/new?category=General-Feedback&title=[Vega%20roadmap]%20).
 
